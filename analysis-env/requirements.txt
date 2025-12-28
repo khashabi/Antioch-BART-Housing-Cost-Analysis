@@ -1,0 +1,8 @@
+folium>=0.12
+geopandas
+mapclassify
+matplotlib
+numpy
+pandas
+seaborn
+shapely
