@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "antioch_geo_m",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26910" } },
+"features": [
+{ "type": "Feature", "properties": { "stop_id": "ANTC", "stop_code": 908309.0, "stop_name": "Antioch", "stop_desc": null, "stop_lat": 37.995373, "stop_lon": -121.780346, "zone_id": "ANTC", "plc_url": "https://www.bart.gov/stations/antc", "location_type": 1, "parent_station": null, "platform_code": null }, "geometry": { "type": "Point", "coordinates": [ 607091.068537776940502, 4206003.377002066001296 ] } }
+]
+}
